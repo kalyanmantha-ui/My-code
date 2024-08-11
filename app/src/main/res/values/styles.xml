@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your color resources here -->
+    <color name="primaryColor">#FF6200EE</color> <!-- Example color, change as needed -->
+    <color name="secondaryColor">#FF03DAC5</color> <!-- Example color, change as needed -->
+    <color name="white">#FFFFFF</color>
+</resources>

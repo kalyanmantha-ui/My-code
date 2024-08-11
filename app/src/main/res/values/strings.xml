@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_message">Welcome to HealthTracking!</string>
+    <string name="app_name">HealthTracking</string>
+    <string name="btn_save">Save</string>
+    <string name="hint_duration">Duration</string>
+    <string name="hint_type">Type (e.g., Wet, Dirty)</string>
+</resources>

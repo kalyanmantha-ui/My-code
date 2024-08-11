@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnBreastfeeding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Breastfeeding"
+        android:layout_marginBottom="16dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/btnDiaperChange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diaper Change"
+        android:layout_below="@id/btnBreastfeeding"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnSleepTracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sleep Tracking"
+        android:layout_below="@id/btnDiaperChange"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
+
